@@ -1,0 +1,19 @@
+{
+  "name": "hello-newman",
+  "version": "1.0.0",
+  "description": "Playing around with Postman and Newman",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckenst/hello-newman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckenst/hello-newman/issues"
+  },
+  "homepage": "https://github.com/ckenst/hello-newman#readme"
+}
